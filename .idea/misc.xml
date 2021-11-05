@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/alfon/Desktop/Programming/AndroidStudio/Android_Shape_Drawables_Tutorial/app/src/main/res/drawable-night/button.xml" value="0.18125" />
+        <entry key="..\:/Users/alfon/Desktop/Programming/AndroidStudio/Android_Shape_Drawables_Tutorial/app/src/main/res/drawable/background.xml" value="0.275" />
+        <entry key="..\:/Users/alfon/Desktop/Programming/AndroidStudio/Android_Shape_Drawables_Tutorial/app/src/main/res/drawable/button.xml" value="0.275" />
         <entry key="..\:/Users/alfon/Desktop/Programming/AndroidStudio/Android_Shape_Drawables_Tutorial/app/src/main/res/drawable/logo.xml" value="0.275" />
-        <entry key="..\:/Users/alfon/Desktop/Programming/AndroidStudio/Android_Shape_Drawables_Tutorial/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/alfon/Desktop/Programming/AndroidStudio/Android_Shape_Drawables_Tutorial/app/src/main/res/layout/activity_main.xml" value="0.4" />
       </map>
     </option>
   </component>
